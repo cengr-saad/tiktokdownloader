@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-*)0lxr&j)8=9g$n^*n3w)ji5g)wx=wjkxo-sc6%h1@-p_t9y(2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['tiktrik.com' 'www.tiktrik.com']
 
 
 # Application definition
